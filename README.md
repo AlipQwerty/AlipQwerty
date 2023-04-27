@@ -11,7 +11,6 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/AlipQwerty"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlipQwerty&layout=compact&theme=react&hide_border=true" />
 
-<a href="https://github.com/AlipQwerty/AFBF"><img title="AFBF src="https://github-readme-stats.vercel.app/api/pin/?username=AlipQwerty&repo=AFBF&theme=vision-friendly-dark"></a>
 
 <h2><b><i>About Me <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2>
 <b><i>I like to play on the internet and love to learn the Program 🖥</i></b>
