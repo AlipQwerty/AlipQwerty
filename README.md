@@ -17,7 +17,7 @@
 
 ![FB_IMG_16455258245982020](https://user-images.githubusercontent.com/100587195/155497091-3f177f4e-e8e0-4fcc-8fec-90894be3b55c.jpg)
 <h2><b>If you want to send a donation to me 💸</i></b></h2>
-<a href="https://saweria.co/AlipXD">CLICK HERE !</a>
+<a href="https://saweria.co/alipqwerty">CLICK HERE !</a>
 
 <h2><b><i>Follow my Social Media 😸</i></b></h2>
 
